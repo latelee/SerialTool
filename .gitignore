@@ -1,3 +1,13 @@
+/Debug
+/Backup
+/.vs
+*.db
+*.tlog
+*.log
+*.aps
+*.pdb
+*.ipch
+
 # Prerequisites
 *.d
 
@@ -27,6 +37,6 @@
 *.lib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
